@@ -1,0 +1,14 @@
+
+
+
+
+
+
+
+
+
+
+
+1. Escriba un programa que le pida el usuaria digite un numero "n" y que por medio del "for" sume todos los numeros que recorra del 1 al "n".
+
+2. Escribe un programa que imprima un triangulo rectangulo de asteriscos de altura "n".
